@@ -1,0 +1,30 @@
+{
+  "name": "appshaper",
+  "description": "A complete open source solution for building web apps",
+  "author": {
+    "name": "Jeroen Reurings",
+    "email": "j.reurings@gmail.com"
+  },
+  "version": "0.1.0",
+  "license": "Apache License, Version 2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/appshaper/appshaper.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "es5-shim": "*",
+    "grunt": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-eslint": "*",
+    "matchdep": "*",
+    "jasmine": "^2.2.1",
+    "jasmine-core": "^2.0.4",
+    "grunt-contrib-handlebars": "^0.10.0",
+    "grunt-copy-mate": "^0.1.2",
+    "handlebars": "^3.0.0",
+    "grunt-jsdoc": "^0.6.3",
+    "requirejs": "^2.1.16",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

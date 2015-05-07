@@ -1,0 +1,1 @@
+var script2 = true;
