@@ -1,4 +1,4 @@
-![logo](https://cloud.githubusercontent.com/assets/2873924/7519952/a8d365b4-f4e3-11e4-8bbc-67c4cc8512a2.png)
+![appshaper-logo](https://cloud.githubusercontent.com/assets/2873924/7520037/29086716-f4e4-11e4-98af-e792f4d985c1.png)
 ---
 > Appshaper is a complete open source solution for building professional-quality web apps.
 
